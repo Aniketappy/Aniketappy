@@ -1,74 +1,100 @@
 # 👋 Hi, I'm Aniket Priyadarshi
 
-🚀 Senior Backend Engineer with 10+ years of experience building scalable, high-performance systems.  
-I specialize in distributed architectures, microservices, and modern AI-powered backend systems.
+🚀 Principal Backend Engineer with 10+ years of experience building large-scale, high-performance distributed systems.  
+Currently working on AI-powered healthcare systems, combining backend engineering with modern AI/LLM capabilities.
 
 ---
 
 ## 💡 About Me
 
-- 💼 Backend Engineer with strong expertise in **Java, Spring Boot, and Microservices**
-- ⚙️ Experienced in **Distributed systems, system design, and scalability**
-- 🤖 Working with **AI/LLMs and building intelligent backend systems**
-- 🧠 Strong focus on **clean architecture, SOLID principles, and performance optimization**
-- ☁️ Hands-on with **Cloud technologies and modern backend ecosystems**
+- 💼 Principal Engineer at Oracle working on **AI-driven healthcare platforms**
+- ⚙️ Expertise in **microservices, distributed systems, and high-scale backend architecture**
+- 📊 Designed systems handling **5,000+ TPS and 30M+ scale datasets**
+- 🤖 Hands-on with **AI/LLMs, knowledge graphs, and semantic data systems**
+- 🧠 Strong focus on **clean architecture, performance optimization, and reliability**
+- ☁️ Experienced in **cloud-native development (OCI, AWS, GCP)**
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 🚀 Backend
-- Java (Spring Boot, Spring MVC)
-- REST APIs & Microservices Architecture
+- Java (Spring Boot, Micronaut)
+- Python (API development, data processing, AI integrations)
 - PHP (Slim Framework)
+- REST APIs & Microservices Architecture
+- Event-driven systems (Apache Kafka)
 
-### 🤖 AI / LLM
+---
+
+### 🤖 AI / LLM / Data Systems
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- Prompt Engineering & Context Management
-- Model Integration (e.g., local LLMs, API-based models)
-- MCP (Model Context Protocol) based integrations
+- AI Agents & Agentic Workflows
+- MCP (Model Context Protocol) integrations
+- Semantic Knowledge Graphs & Vector Embeddings
+- Context-aware search & reasoning systems
+
+---
 
 ### 🗄️ Databases
-- Oracle DB
-- SQL Optimization & Performance Tuning
-- SQLite
+- Oracle DB, MySQL, MariaDB
+- MongoDB, Cassandra, Elasticsearch
+- Redis (high-performance caching)
+- SQLite (lightweight systems)
+
+---
 
 ### ⚙️ System Design
 - High-Level Design (HLD)
 - Low-Level Design (LLD)
-- Scalable & Distributed Systems
-
-### ☁️ Cloud & Tools
-- Cloud Fundamentals (AWS/GCP/OCI)
-- Docker
-- Kubernetes
-- Git & GitHub
+- Distributed Systems & Scalability
+- Event-driven Architecture
+- Performance Optimization & Observability
 
 ---
 
-### 🔹 AI / LLM Integrations
-- Built backend services integrating **LLMs for conversational workflows**
-- Explored **RAG pipelines** for context-aware responses
-- Designed APIs for **AI-powered applications and chat systems**
+### ☁️ Cloud & DevOps
+- Oracle Cloud Infrastructure (OCI)
+- AWS (Lambda, SQS, S3, AuroraDB)
+- GCP (basics)
+- Docker, Kubernetes
+- CI/CD (Jenkins, GitLab)
 
 ---
 
-## 📈 What I’m Currently Doing
+## 📌 Featured Work
 
-- 🤖 Exploring **AI systems, LLM integrations, and RAG architectures**
-- 🌱 Expanding into **Frontend (React.js)** for full-stack capability  
-- ☁️ Deepening knowledge in **Cloud & large-scale system design**  
-- 🧠 Preparing for **high-scale product company engineering roles**
+### 🔹 AI-Driven Healthcare Platform (Oracle)
+- Built backend systems for clinical orders & care plans handling **5,000+ TPS**
+- Integrated with **AI agents and LLM-based systems** for intelligent recommendations
+- Designed services interacting with **semantic knowledge graphs and vector data layers**
+- Ensured **secure, scalable, and highly available cloud-native architecture**
+
+---
+
+### 🔹 High-Scale Catalogue System (AJIO)
+- Designed system handling **30M+ SKUs and 7,000 TPS peak traffic**
+- Improved performance by **30% using Redis, MongoDB, and Elasticsearch**
+- Built real-time systems using **Kafka-based event pipelines**
+
+---
+
+## 📈 What I’m Currently Exploring
+
+- 🤖 Advanced **LLM architectures, RAG pipelines, and AI systems**
+- 🔗 Building **AI-powered backend services and APIs**
+- 🌐 Expanding into **full-stack (React.js)**
+- ☁️ Deepening expertise in **cloud-native distributed systems**
 
 ---
 
 ## 🤝 Let's Collaborate
 
 I’m open to collaborating on:
-- Backend-heavy systems
-- Scalable architecture problems
-- AI-powered backend applications
+- Scalable backend systems
+- System design & architecture problems
+- AI/LLM-powered applications
 
 ---
 
@@ -81,4 +107,4 @@ I’m open to collaborating on:
 
 ## ⚡ Fun Fact
 
-I enjoy combining **backend engineering with AI** to build smart, scalable systems 🚀
+I enjoy combining **backend engineering + AI** to build intelligent, scalable systems 🚀
